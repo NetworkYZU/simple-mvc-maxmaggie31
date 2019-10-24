@@ -1,6 +1,6 @@
 <%-- 
-    Document   : UnknownStudent
-    Created on : Sep 24, 2018, 7:35:46 AM
+    Document   : UnknownCustomer
+    Created on : Sep 24, 2018, 7:28:10 AM
     Author     : lendle
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>你好普通</h1>
+        <h1>I don't know you~</h1>
     </body>
 </html>
